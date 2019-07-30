@@ -1,2 +1,0 @@
-# DummyStore
-Created with CodeSandbox
